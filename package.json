@@ -1,0 +1,14 @@
+{
+  "name": "d3-starwars-keepcoding",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "browser-sync start -s -f index.html src --no-ui --no-notify"
+  },
+  "author": "Denis Alonso <denjalonso@gmail.com> (@denjalonso)",
+  "license": "MIT",
+  "devDependencies": {
+    "browser-sync": "^2.23.6"
+  }
+}
